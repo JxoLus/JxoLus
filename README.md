@@ -13,7 +13,6 @@
 [![wakatime](https://wakatime.com/badge/user/e4a430f7-d0f6-4509-a09f-d8c439c009b7.svg)](https://wakatime.com/@e4a430f7-d0f6-4509-a09f-d8c439c009b7)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 <details>
