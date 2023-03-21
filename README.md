@@ -15,6 +15,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+[![xoLus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xoLus)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>Github Stats 🔥</summary>
   
