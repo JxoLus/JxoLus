@@ -15,11 +15,15 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![xoLus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xoLus)](https://github.com/anuraghazra/github-readme-stats)
-
 <details>
   <summary>Github Stats 🔥</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=JxoLus&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JxoLus&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
+
+<details>
+  <summary>Wakatime Stats 🔥</summary>
+  
+  [![xoLus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xoLus)](https://github.com/anuraghazra/github-readme-stats)
 </details>
