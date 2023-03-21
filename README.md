@@ -1,4 +1,4 @@
-# 안녕하세요!
+# 안녕하세요! 😉
 **프론트엔드 개발자 최지율입니다.**
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,next,dart,flutter,java,firebase,git)](https://skillicons.dev)<br/>
@@ -8,8 +8,10 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/874910914904731718)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/874910914904731718)](https://dev.discordprofiles.me/openspotify/874910914904731718)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJxoLus%2FJxoLus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats 🔥</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=JxoLus&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JxoLus&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
