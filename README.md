@@ -10,6 +10,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJxoLus%2FJxoLus&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![wakatime](https://wakatime.com/badge/user/e4a430f7-d0f6-4509-a09f-d8c439c009b7.svg)](https://wakatime.com/@e4a430f7-d0f6-4509-a09f-d8c439c009b7)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <details>
   <summary>Github Stats 🔥</summary>
   
