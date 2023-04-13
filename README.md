@@ -9,7 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-384.4%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -29,18 +29,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 mins              ████████████████████████░   95.97 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+JavaScript               2 hrs 4 mins        ███████████████████░░░░░░   74.91 % 
+TypeScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 에디터들: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2023 15:02:00 UTC
+ Last Updated on 13/04/2023 15:01:22 UTC
 <!--END_SECTION:waka-->
 
 <details>
