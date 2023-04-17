@@ -9,7 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-384.4%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -29,21 +29,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               3 hrs 9 mins        █████████████████████░░░░   82.42 % 
-TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+JavaScript               5 hrs 41 mins       █████████████████████░░░░   85.33 % 
+TypeScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 에디터들: 
-VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/04/2023 15:01:11 UTC
+ Last Updated on 17/04/2023 15:01:00 UTC
 <!--END_SECTION:waka-->
 
 <details>
