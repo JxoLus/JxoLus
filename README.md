@@ -9,7 +9,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&redirect=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-384.4%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -29,17 +29,21 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+TypeScript               1 hr 3 mins         ███████████████████░░░░░░   77.28 % 
+C#                       16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2023 15:01:03 UTC
+ Last Updated on 07/05/2023 15:01:23 UTC
 <!--END_SECTION:waka-->
 
 <details>
