@@ -1,4 +1,4 @@
-# 안녕하세요! 😉
+# 안녕하세요 😉
 **프론트엔드 개발자 최지율입니다.**
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,ts,react,next,dart,flutter,java,firebase,git)](https://skillicons.dev)<br/>
