@@ -52,4 +52,4 @@
   [![xoLus's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xoLus)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313mu57geakzqngy3xditleir7de&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31idtiz5mto6ru775wjgkpqnyfza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=1100ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31idtiz5mto6ru775wjgkpqnyfza&redirect=true)
