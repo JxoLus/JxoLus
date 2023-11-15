@@ -6,7 +6,7 @@
 [![wakatime](https://wakatime.com/badge/user/e4a430f7-d0f6-4509-a09f-d8c439c009b7.svg)](https://wakatime.com/@e4a430f7-d0f6-4509-a09f-d8c439c009b7)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-403.2%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -26,17 +26,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/11/2023 15:01:51 UTC
+ Last Updated on 15/11/2023 15:01:02 UTC
 <!--END_SECTION:waka-->
 
 <details>
