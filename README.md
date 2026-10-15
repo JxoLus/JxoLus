@@ -26,17 +26,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Text                     1 hr 2 mins         ████████████████████░░░░░   79.24 % 
-Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -46,7 +42,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/10/2026 18:59:40 UTC
+ Last Updated on 15/10/2026 18:43:28 UTC
 <!--END_SECTION:waka-->
 
 <details>
